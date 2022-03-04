@@ -12,4 +12,4 @@ a NLP project for Captain Michael Burnham of the Star Trek Discovery
 Python
 
 
-![Python](img/burnham1_python.png)
+![Python](img/burnham2_python.png)
