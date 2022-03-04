@@ -107,6 +107,23 @@ qdfm2_freq = textstat_frequency(qdfm2, n=100)
 
 # qdfm2_freq$feature = with(qdfm2_freq, reorder(feature, -frequency))
 
+
+
+library(showtext)
+
+# ====== load fonts from Google
+# font_add_google(family = "Poppins","Poppins")
+# # font_add_google(family = 'Lato','Lato')
+# showtext_auto()
+# 
+# # load font installed on computer into RStudio
+# font_add(family = "Montserrat", regular = "Montserrat-Regular.ttf")
+# showtext_auto()
+
+font_add_google('Oswald','Oswald')
+showtext_auto()
+
+
 qdfm2_freq %>% 
   filter(frequency > 15) %>% 
   ggplot(
@@ -115,7 +132,20 @@ qdfm2_freq %>%
   # geom_point()+
   geom_col()+
   ggdark::dark_mode()+
-  scale_fill_viridis_c(option = 'C')
+  scale_fill_viridis_c(option = 'C')+
+  labs(title = "\nStar Trek Disco Captain Burnham",
+       subtitle = "Season 1 :: word frequencies > 15",
+       x="word frequency",
+       y="word"
+       )+
+  theme(
+    text =  element_text(family = 'Oswald'),
+    plot.title = element_text(size = 15, hjust = 0.5),
+    plot.subtitle = element_text(size = 14, hjust = 0.5),
+    axis.text.y = element_text(size = 12, face = 'bold', color = 'white'),
+    axis.text.x = element_text(size = 12, color = 'white'),
+    axis.title = element_text(size=14, color = 'white')
+  )
 
 
 
