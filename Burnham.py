@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 
 
 # read the whole text
-text = open('.txt').read()  #
+text = open('./Burnham/BurnhamSpeech2.txt').read()  #
 
 
 
