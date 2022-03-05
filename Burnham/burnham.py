@@ -1,7 +1,6 @@
 
 
 
-
 # wordcloud       pip3 install wordcloud 
 
 from wordcloud import WordCloud 
@@ -11,10 +10,9 @@ import matplotlib.pyplot as plt
 
 
 # read the whole text
-text = open('BurnhamSpeech.txt').read()  #
+text = open('./Burnham/BurnhamSpeech1-2.txt').read()  #
 
-# minaj-lyrics.txt
-# cardiB-lyrics.txt
+
 
 
 # generate a wordcloud and plot it

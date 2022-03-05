@@ -89,7 +89,7 @@ textplot_wordcloud(qdfm2,
 
 
 
-write_file(tdf, file = 'BurnhamSpeech2.txt')
+write_file(tdf, file = 'BurnhamSpeech1-2.txt')
 
 
 
