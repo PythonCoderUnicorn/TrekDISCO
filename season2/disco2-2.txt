@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 
 Previously on Star Trek: Discovery...
 
@@ -39,6 +40,9 @@ my fear by drawing them, rendering fear powerless. The nightmares have returned.
 The same vision, again and again. I now understand its meaning and where it must lead me.
 I have encoded it within this audio file in the event of my death.
 This may be my last entry aboard the Enterprise.
+=======
+SPOCK:
+>>>>>>> e8950bd887a00bd7fb5725d475de51ddc1e29ebd
 
 
 BURNHAM: Spock has had this tablet since he was a boy. I took it from his quarters.
