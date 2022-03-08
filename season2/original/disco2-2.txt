@@ -42,7 +42,7 @@ I have encoded it within this audio file in the event of my death.
 This may be my last entry aboard the Enterprise.
 =======
 SPOCK:
->>>>>>> e8950bd887a00bd7fb5725d475de51ddc1e29ebd
+
 
 
 BURNHAM: Spock has had this tablet since he was a boy. I took it from his quarters.
