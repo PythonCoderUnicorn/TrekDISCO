@@ -1,420 +1,231 @@
-
-
-Previously on Star Trek: Discovery...
-
-Captain Christopher Pike requests permission to come aboard. Im here at Starfleets order to take command of the Discovery.
-Over the past 24 hours, Federation sensors picked up
-seven red bursts spread out
-across more than 30,000 light-years.
-And right now this little dot is the only one willing to tell us where it is. Hit it.
-
-Pike to Discovery. Get us out of here. Wait!
-
-I need a sample of that asteroid. If my theorys correct,
-well be able to interact with dark matter, sir.
-
-The asteroid has been shedding rocks all over the place.
-
-We still have time to reach one of them.
-
-Its in the bay.
-
-Whats your status?
-
-The shuttle bay needs a little TLC, but all is well, Commander.
-
-I saw you die.
-
-I watched Tyler kill you. I held your body in my arms.
-
-I believe in you, Paul. I love you.
-
-BURNHAM: Id like to go to Enterprise, sir.
-
-PIKE: Im sorry, Burnham, but Spocks not there. A few months ago I felt something shift in him. Its as if hed run into a question he couldnt answer. He asked me for time, and I gave it to him.
-
-
-SPOCK: As a child, I had what my mother called "nightmares." She taught me to control
-my fear by drawing them, rendering fear powerless. The nightmares have returned.
-The same vision, again and again. I now understand its meaning and where it must lead me.
-I have encoded it within this audio file in the event of my death.
-This may be my last entry aboard the Enterprise.
-
-
-BURNHAM: Spock has had this tablet since he was a boy. I took it from his quarters.
-He drew these signals two months before they appeared to us.
-
-Computer, show me Starfleets rendering of the seven signals. Rotate 90 degrees counterclockwise.
-
-Its damn near identical.
-
-There any more sketches like this one?
-
+V1
+"Previously on Star Trek: Discovery..."
+"Captain Christopher Pike requests permission to come aboard. Im here at Starfleets order to take command of the Discovery."
+"Over the past 24 hours, Federation sensors picked up"
+"seven red bursts spread out"
+"across more than 30,000 light-years."
+"And right now this little dot is the only one willing to tell us where it is. Hit it."
+"Pike to Discovery. Get us out of here. Wait!"
+"I need a sample of that asteroid. If my theorys correct,"
+"well be able to interact with dark matter, sir."
+"The asteroid has been shedding rocks all over the place."
+"We still have time to reach one of them."
+"Its in the bay."
+"Whats your status?"
+"The shuttle bay needs a little TLC, but all is well, Commander."
+"I saw you die."
+"I watched Tyler kill you. I held your body in my arms."
+"I believe in you, Paul. I love you."
+"BURNHAM: Id like to go to Enterprise, sir."
+"PIKE: Im sorry, Burnham, but Spocks not there. A few months ago I felt something shift in him. Its as if hed run into a question he couldnt answer. He asked me for time, and I gave it to him."
+"SPOCK: As a child, I had what my mother called nightmares. She taught me to control"
+"my fear by drawing them, rendering fear powerless. The nightmares have returned."
+"The same vision, again and again. I now understand its meaning and where it must lead me."
+"I have encoded it within this audio file in the event of my death."
+"This may be my last entry aboard the Enterprise."
+"BURNHAM: Spock has had this tablet since he was a boy. I took it from his quarters."
+"He drew these signals two months before they appeared to us."
+"Computer, show me Starfleets rendering of the seven signals. Rotate 90 degrees counterclockwise."
+"Its damn near identical."
+"There any more sketches like this one?"
 No.
-
-BURNHAM: Sir, my brother sounds deeply troubled.
-
-I know hes on leave, but we need to contact him,
-find out what he knows about these signals.
-
-I know where Spock is, Burnham.
-Have a seat.
-Your brother... is in the psychiatric unit on Starbase 5.
-Since about a week after he took leave. Committed to the facility at his own request.
-
-BURNHAM: Why werent my parents or I told about this request?
-
-Its Starfleet protocol to reach out to the families...Unless the patient doesnt want that,
-and Spock said no. Emphatically. With that said, his association with these signals
-outweighs his desire for absolute privacy. You could extend an olive branch to your brother,
-but hell need to decide whether or not to take it.
-
-BURNHAM: He wont. At least not from me.
-The way I left things with my brother... We havent spoken in years.
-
-Family dynamics can be complicated.
-
-BURNHAM: My father was a science teacher, and when he wasnt doing that, he taught comparative religion. It was a confusing household, and...We didnt agree on a lot.
-
-Look, Ive shared with you everything I know.
-
-Trust you can do the same with me. If theres ever anything you feel you ought to tell me...
-
-Sir, when we were on that asteroid... I... I never properly thanked you
-for coming back to get me.
-
-BURNHAM: Youre welcome.
-
-Captain Pike to the bridge immediately.
-
-Captain on the bridge.
-
-Ah, Captain. Another signal has just appeared.
-
-The transmission is too faint to determine the exact coordinates.
-
-Excuse me, Commander Burnham. I was using your station to run
-calibration modeling programs.
-
-Let me just close some of this stuff out.
-
-Ensign Tilly had a notion to pinpoint the signals.
-
-I gave her permission to try it.
-
+"BURNHAM: Sir, my brother sounds deeply troubled."
+"I know hes on leave, but we need to contact him,"
+"find out what he knows about these signals."
+"I know where Spock is, Burnham."
+"Have a seat."
+"Your brother... is in the psychiatric unit on Starbase 5."
+"Since about a week after he took leave. Committed to the facility at his own request."
+"BURNHAM: Why werent my parents or I told about this request?"
+"Its Starfleet protocol to reach out to the families...Unless the patient doesnt want that,"
+"and Spock said no. Emphatically. With that said, his association with these signals"
+"outweighs his desire for absolute privacy. You could extend an olive branch to your brother,"
+"but hell need to decide whether or not to take it."
+"BURNHAM: He wont. At least not from me."
+"The way I left things with my brother... We havent spoken in years."
+"Family dynamics can be complicated."
+"BURNHAM: My father was a science teacher, and when he wasnt doing that, he taught comparative religion. It was a confusing household, and...We didnt agree on a lot."
+"Look, Ive shared with you everything I know."
+"Trust you can do the same with me. If theres ever anything you feel you ought to tell me..."
+"Sir, when we were on that asteroid... I... I never properly thanked you"
+"for coming back to get me."
+"BURNHAM: Youre welcome."
+"Captain Pike to the bridge immediately."
+"Captain on the bridge."
+"Ah, Captain. Another signal has just appeared."
+"The transmission is too faint to determine the exact coordinates."
+"Excuse me, Commander Burnham. I was using your station to run"
+"calibration modeling programs."
+"Let me just close some of this stuff out."
+"Ensign Tilly had a notion to pinpoint the signals."
+"I gave her permission to try it."
 Excellent.
-
-Im modulating Discoverys deflector dish.
-
-The idea is that well create gravimetric distortion that will act like sonar.
-
-Thats a good plan, but the signals too far away to register.
-
-If we were closer, we might be able to detect gravitational redshift
-and use that to calculate its exact position. I suggest we go to warp momentarily,
-then target it with long-range sensors as soon as we drop out.
-
-Detmer, take us to maximum warp for five seconds.
-
-Aye, sir.
-
-Signal coordinates received.
-
-And its in the Beta Quadrant, 51,450 light-years away.
-
-At top speed, that would take us 150 years to get that far.
-
-My unborn childrens children would be lucky to get there. Ideas?
-
-The spore drive.
-
-But until a nonhuman interface is found, Starfleet has decommissioned it.
-
-Or its navigator, really.
-
-In order to guide us through the mycelial network,
-
-Commander Stamets injected himself with Tardigrade DNA, a violation of Starfleets ban
-on genetic manipulation. They were willing to overlook this during the war, however.
-
-A Tardigrade?
-
-I suppose you had to be there.
-
-Getting to the bottom of these signals is of utmost importance to the Federation.
-
-They let you use the drive to fight the Klingons.
-
-Theyll give us dispensation now.
-
-How long before it can be operational?
-
-Once I begin prepping Commander Stamets, 20 minutes.
-
-Get to it.
-
-Bet youre glad you stayed on board, right?
-
+"Im modulating Discoverys deflector dish."
+"The idea is that well create gravimetric distortion that will act like sonar."
+"Thats a good plan, but the signals too far away to register."
+"If we were closer, we might be able to detect gravitational redshift"
+"and use that to calculate its exact position. I suggest we go to warp momentarily,"
+"then target it with long-range sensors as soon as we drop out."
+"Detmer, take us to maximum warp for five seconds."
+"Aye, sir."
+"Signal coordinates received."
+"And its in the Beta Quadrant, 51,450 light-years away."
+"At top speed, that would take us 150 years to get that far."
+"My unborn childrens children would be lucky to get there. Ideas?"
+"The spore drive."
+"But until a nonhuman interface is found, Starfleet has decommissioned it."
+"Or its navigator, really."
+"In order to guide us through the mycelial network,"
+"Commander Stamets injected himself with Tardigrade DNA, a violation of Starfleets ban"
+"on genetic manipulation. They were willing to overlook this during the war, however."
+"A Tardigrade?"
+"I suppose you had to be there."
+"Getting to the bottom of these signals is of utmost importance to the Federation."
+"They let you use the drive to fight the Klingons."
+"Theyll give us dispensation now."
+"How long before it can be operational?"
+"Once I begin prepping Commander Stamets, 20 minutes."
+"Get to it."
+"Bet youre glad you stayed on board, right?"
 Hmm?
-
-Being back in the saddle. You and me.
-
-Doing our thang. I thought the jump to QonoS would be the last time in a long time.
-
-Whats wrong?
-
-I saw Hugh in the network.
-
-What? You mean, after he... after he died?
-
-Yes. When I was trapped there,
-
-he comforted me. He led me to escape when I was ready to give up.
-
+"Being back in the saddle. You and me."
+"Doing our thang. I thought the jump to QonoS would be the last time in a long time."
+"Whats wrong?"
+"I saw Hugh in the network."
+"What? You mean, after he... after he died?"
+"Yes. When I was trapped there,"
+"he comforted me. He led me to escape when I was ready to give up."
 Discovery
-
-out of the Terran universe, Tilly.
-
-He saved us all.
-
-I...I-I know how this sounds.
-
-At first, I told myself it was a fabrication of my own mind
-culled from my memories by the mycelia, but since then, I'm not so sure.
-
-I didnt see him the last time I jumped, but knowing its a possibility...
-
-I would think that possibility would make you happy.
-
-Astromycology has taught me that nothing is ever truly gone. Fungi are the universes recyclers.
-
-This is how termination begets creation.
-
-Its why life is eternal.
-
-And my place is on this side of that cycle.
-
-If I return to the network and see him again...
-
-PIKE: We good to go, Mr. Stamets?
-
-MALE All personnel, prepare for black alert. This is not a drill. Repeat, this is not a drill.
-
-Spore drive is on line.
-
-Spore drive is ready, Captain.
-
-Questions or concerns before we depart, Captain?
-
-If youre telling me that this ship
-
-can skip across the universe on a highway made of mushrooms,
-
-I kind of have to go on faith. Be bold. Be brave.
-
-Be courageous. Black alert.
-All personnel, black alert.
-Lets jump.
-
-You never forget your first, sir.
-
+"out of the Terran universe, Tilly."
+"He saved us all."
+"I...I-I know how this sounds."
+"At first, I told myself it was a fabrication of my own mind"
+"culled from my memories by the mycelia, but since then, I'm not so sure."
+"I didnt see him the last time I jumped, but knowing its a possibility..."
+"I would think that possibility would make you happy."
+"Astromycology has taught me that nothing is ever truly gone. Fungi are the universes recyclers."
+"This is how termination begets creation."
+"Its why life is eternal."
+"And my place is on this side of that cycle."
+"If I return to the network and see him again..."
+"PIKE: We good to go, Mr. Stamets?"
+"MALE All personnel, prepare for black alert. This is not a drill. Repeat, this is not a drill."
+"Spore drive is on line."
+"Spore drive is ready, Captain."
+"Questions or concerns before we depart, Captain?"
+"If youre telling me that this ship"
+"can skip across the universe on a highway made of mushrooms,"
+"I kind of have to go on faith. Be bold. Be brave."
+"Be courageous. Black alert."
+"All personnel, black alert."
+"Lets jump."
+"You never forget your first, sir."
 Ah.
-
-Commander Stamets...
-
-Not now, Tilly.
-
-Theres no sign of the signal.
-
-Are we where were supposed to be?
-
+"Commander Stamets..."
+"Not now, Tilly."
+"Theres no sign of the signal."
+"Are we where were supposed to be?"
 Affirmative.
-
 Report.
-
-Class-M planet.
-
-No power signatures or starships in the area.
-
-No one scanning us from the surface.
-
-Wait, I detect human life signs.
-
-No humans have settled this far out in the Beta Quadrant.
-
-Captain, Im picking up a transmission from the surface.
-
-Send it through, Bryce.
-
-Were under attack! 
-
-Were holed up inside.
-
-A few hundred souls: men, women and children.
-
-Red alert.
-Ready photon torpedoes.
-
-Are you sure there's nobody else out there?
-
-Were alone, Captain.
-
-Pinpoint the distress call. Show me where its coming from.
-
+"Class-M planet."
+"No power signatures or starships in the area."
+"No one scanning us from the surface."
+"Wait, I detect human life signs."
+"No humans have settled this far out in the Beta Quadrant."
+"Captain, Im picking up a transmission from the surface."
+"Send it through, Bryce."
+"Were under attack! "
+"Were holed up inside."
+"A few hundred souls: men, women and children."
+"Red alert."
+"Ready photon torpedoes."
+"Are you sure there's nobody else out there?"
+"Were alone, Captain."
+"Pinpoint the distress call. Show me where its coming from."
 Enhance.
-
-They do not seem to be in any sort of distress, Captain.
-
-Can you trace any warp signatures or starships near the planet?
-
-Not a single one.
-
-I can, however, confirm that, based on audiophonic degradation, 
-the transmission has been broadcasting on a loop for...
-200 years. Thats before warp was even invented. Somebody want to tell me how they got here?
-
-
-
-
-
-
-The arrival of those people on the planet directly coincides with World War III on Earth-
-a nuclear cataclysm that left 600 million dead and governments destroyed.
-
-The broadcast frequency from the surface is obsolete, too weak for interstellar communication.
-
-Its all coming from this structure here.
-
-Its a church, Burnham.
-
-Yes, sir.
-
-They're speaking Federation Standard.
-
-They had to have a starship to get out this far.
-
-Hell, the only way we got here was by using a spore drive.
-
-Yet with the roughly 11,000 people,
-
-spread over ten settlements across the planet,
-
-there is no ship or power signature to speak of.
-
-They dont even use electricity.
-Since their society is pre-warp, we have to assume General Order 1 applies.
-
-Why did that second signal want us to come here?
-
-As science officer, I would advise restraint in ascribing motivation to what are now simply
-unidentifiable energy bursts.
+"They do not seem to be in any sort of distress, Captain."
+"Can you trace any warp signatures or starships near the planet?"
+"Not a single one."
+"I can, however, confirm that, based on audiophonic degradation, "
+"the transmission has been broadcasting on a loop for..."
+"200 years. Thats before warp was even invented. Somebody want to tell me how they got here?"
+"The arrival of those people on the planet directly coincides with World War III on Earth-"
+"a nuclear cataclysm that left 600 million dead and governments destroyed."
+"The broadcast frequency from the surface is obsolete, too weak for interstellar communication."
+"Its all coming from this structure here."
+"Its a church, Burnham."
+"Yes, sir."
+"They're speaking Federation Standard."
+"They had to have a starship to get out this far."
+"Hell, the only way we got here was by using a spore drive."
+"Yet with the roughly 11,000 people,"
+"spread over ten settlements across the planet,"
+"there is no ship or power signature to speak of."
+"They dont even use electricity."
+"Since their society is pre-warp, we have to assume General Order 1 applies."
+"Why did that second signal want us to come here?"
+"As science officer, I would advise restraint in ascribing motivation to what are now simply"
+"unidentifiable energy bursts."
 "There are more things in heaven and earth, Horatio..."
-
-I know my Shakespeare, Captain.
-
-Are you suggesting that some kind of divine intervention put those people on the planet?
-
-I assume youre familiar with Clarkes Third Law?
-
+"I know my Shakespeare, Captain."
+"Are you suggesting that some kind of divine intervention put those people on the planet?"
+"I assume youre familiar with Clarkes Third Law?"
 Yes.
-
-In the 20th century, Arthur C. Clarke said that
-
+"In the 20th century, Arthur C. Clarke said that"
 "Any sufficiently advanced technology is indistinguishable from magic."
-The law was debated by scientists and theologians alike, and later reinterpreted to say:
+"The law was debated by scientists and theologians alike, and later reinterpreted to say:"
 "Any sufficiently advanced extraterrestrial intelligence is indistinguishable from God."
-
-I have no idea how or why theyre here, but I highly doubt its by accident.
-
-Certainly a bold interpretation, sir.
-
-What else do we know about the planet?
-
-It is surprisingly Earth-like.
-However, the interweaving orbital rings are comprised of radioactive debris.
-
-Quite unlike anything weve ever seen before.
-
-Figuring out how these people got there may shed some light
-
-on the nature of the signals themselves.
-
-Whos best suited to come with us to the surface, Burnham?
-
-Lieutenant Owosekun.
-
-She grew up in a Luddite collective on Earth.
-
-Shell know how to embed, per General Order 1.
-
-Brief her and lets move.
-
-Your personal shielding is phase-locked
-
-with the gravity simulator.
-
-Any change in this gravimetric stability will result in...
-
+"I have no idea how or why theyre here, but I highly doubt its by accident."
+"Certainly a bold interpretation, sir."
+"What else do we know about the planet?"
+"It is surprisingly Earth-like."
+"However, the interweaving orbital rings are comprised of radioactive debris."
+"Quite unlike anything weve ever seen before."
+"Figuring out how these people got there may shed some light"
+"on the nature of the signals themselves."
+"Whos best suited to come with us to the surface, Burnham?"
+"Lieutenant Owosekun."
+"She grew up in a Luddite collective on Earth."
+"Shell know how to embed, per General Order 1."
+"Brief her and lets move."
+"Your personal shielding is phase-locked"
+"with the gravity simulator."
+"Any change in this gravimetric stability will result in..."
 Boom.
-
 Confirmed.
-
-As theorized, there are periodic concentrations of 
-metreon particles. Yeah. Here looks promising.
-
+"As theorized, there are periodic concentrations of "
+"metreon particles. Yeah. Here looks promising."
 Okeydokey.
-
-Activating laser core sampler and corresponding internal artificial grav.
-
-And according to my calculations,
-
-one cubic centimeter of metreon-charged asteroid weighs in at a portly one 
-point five metric tons.
-
-Metreon fluctuation detected.
-
-Adjust grav sim.
-
-Project termination advised.
-
-Not yet.
-
-Metreon-charged dark matter is our only lead in finding a new spore-drive interface,
-and Commander Stamets needs this.
-
-Got it.
-
-Secure sample.
-
-Hello, gorgeous.
-
-Alert. Energy discharge of unknown origin detected
-in main shuttle bay. Engineer... No life signs inside.
-
-Set phasers to stun.
-
-Keep em handy but out of sight.
-
-Have either of you ever been in a church?
-
-No. My family are non-believers.
-
-I'm familiar with the texts of Earths religions.
-
-All right. Lets find out who these people are and why theyre calling for help.
-
-This glass is two centuries old. It represents not just Christianity, but
-Judaism, Islam, Hinduism, Buddhism, Shinto and Wicca.
-
-The distress call is coming from beneath us.
-
-Ill look for the basement.
-
+"Activating laser core sampler and corresponding internal artificial grav."
+"And according to my calculations,"
+"one cubic centimeter of metreon-charged asteroid weighs in at a portly one "
+"point five metric tons."
+"Metreon fluctuation detected."
+"Adjust grav sim."
+"Project termination advised."
+"Not yet."
+"Metreon-charged dark matter is our only lead in finding a new spore-drive interface,"
+"and Commander Stamets needs this."
+"Got it."
+"Secure sample."
+"Hello, gorgeous."
+"Alert. Energy discharge of unknown origin detected"
+"in main shuttle bay. Engineer... No life signs inside."
+"Set phasers to stun."
+"Keep em handy but out of sight."
+"Have either of you ever been in a church?"
+"No. My family are non-believers."
+"I'm familiar with the texts of Earths religions."
+"All right. Lets find out who these people are and why theyre calling for help."
+"This glass is two centuries old. It represents not just Christianity, but"
+"Judaism, Islam, Hinduism, Buddhism, Shinto and Wicca."
+"The distress call is coming from beneath us."
+"Ill look for the basement."
 "For those who live the old way burn.
-"Those who sin against us shall be cut down by our gods."
+Those who sin against us shall be cut down by our gods.
 Thats light and welcoming.
 
-"When those who believe in our signs come to thee, say, Peace be upon you."
+When those who believe in our signs come to thee, say, Peace be upon you.
 
 Anthropologically speaking,
 
@@ -916,11 +727,11 @@ Do you both understand?
 Yes, sir.
 Yes, sir.
 
-If "X" doesnt work, try "Y."
+If X doesnt work, try Y.
 
-If "Y" doesnt work, try "Z."
+If Y doesnt work, try Z.
 
-If "Z" doesnt work,
+If Z doesnt work,
 try drowning your ineptitude
 
 in a Risan mai tai.
@@ -928,7 +739,7 @@ in a Risan mai tai.
 Where the hell is Burnham?
 
 I need her to, like, be here
-and "yes and..." me.
+and yes and... me.
 
 Can I help you with something?
 
@@ -1137,7 +948,7 @@ scientific-data collectors.
 Look inside. Youll believe.
 
 What happened to
-"Thou shalt not steal"?
+Thou shalt not steal?
 
 I just want her
 to see the truth.
@@ -1287,7 +1098,7 @@ Ill miss our lunches.
 They were like
 little earthquakes.
 
-"Bounce, bounce, bounce."
+Bounce, bounce, bounce.
 
 Please, stay in touch.
 Love, May Ahearn.
@@ -1297,7 +1108,7 @@ Ahearn.
 Knew it.
 
 Computer, locate quarters
-for "Ahearn, May."
+for Ahearn, May.
 
 Ships manifest
 has no such name.
@@ -1306,13 +1117,13 @@ Computer,
 search Federation database
 
 for the whereabouts
-of "Ahearn, May,"
+of Ahearn, May,
 
 originally from San Francisco,
 California, Earth.
 
 Working.
-"Ahearn, May Theresa."
+Ahearn, May Theresa.
 
 Born April 30, 2236.
 
@@ -1375,7 +1186,7 @@ Two signals,
 two angel sightings.
 
 With all due respect, sir,
-the word "angel"
+the word angel
 
 does carry with it
 certain implications.
@@ -1483,7 +1294,7 @@ Its called a transporter.
 It converts a-a person or an
 object into an energy pattern,
 
-then "beams" it to a target,
+then beams it to a target,
 
 where its eventually
 reconverted back into matter.
@@ -1572,4 +1383,4 @@ Take cover! Protect the young!
 
 Oh! Blinding light!
 
-Oh, my gosh!
+Oh, my gosh!"
