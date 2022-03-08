@@ -12,3 +12,5 @@ disco3 = as.character(disco2)
 disco3
 
 write_delim(disco2, path  = "./season2/disco2-2_.txt")
+
+.
